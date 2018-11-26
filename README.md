@@ -1,2 +1,2 @@
-# stupidsportsstats
-A project to find seemingly statistically significant results in meaningless sports stats.
+# Stupid Sports Stats
+After years of lamenting that sports broadcasters would draw attention to the most insignificant and unrelated statistics, I decided to begin doing statistical analysis on unrelated data to find supposed trends.  While the product of this project is meant to be satirical and humorous, my goal is to learn some data science basics, and couple that with learning Flask web development as I launch a web app to host my 'findings.' 
